@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: youtube.java.puzzle.springbootapivalidationsecurity.SpringBootApiValidationSecurityApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.258 s <<< FAILURE! - in youtube.java.puzzle.springbootapivalidationsecurity.SpringBootApiValidationSecurityApplicationTests
+youtube.java.puzzle.springbootapivalidationsecurity.SpringBootApiValidationSecurityApplicationTests  Time elapsed: 0.257 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

@@ -1,0 +1,12 @@
+com\demo\example\SpringBootApiValidationSecurityApplication.class
+com\demo\example\entity\User.class
+com\demo\example\entity\Book.class
+com\demo\example\repository\UserRepository.class
+com\demo\example\service\UserService.class
+com\demo\example\repository\BookRepository.class
+com\demo\example\exception\ApiError$ApiErrorBuilder.class
+com\demo\example\exception\GlobalExceptionHandler.class
+com\demo\example\controller\UserController.class
+com\demo\example\exception\ApiError.class
+com\demo\example\exception\ResourceNotFoundException.class
+com\demo\example\exception\ResponseEntityBuilder.class
